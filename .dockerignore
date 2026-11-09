@@ -1,0 +1,7 @@
+.git
+**/node_modules
+**/__pycache__
+ui/dist
+ui/e2e
+tests
+docs
